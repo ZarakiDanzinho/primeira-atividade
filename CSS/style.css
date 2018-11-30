@@ -1,0 +1,28 @@
+.cor-fundo{
+  background-color: #8e44ad;
+}
+
+.intro{
+  color: white;
+  text-align: center;
+  margin-top: 7%
+}
+
+.intro img {
+  border-radius: 50%;
+  max-width: 20%;
+  max-height: 20%;
+}
+
+.lista-linha {
+  padding-left: 0;
+  list-style: none;
+}
+
+.lista-linha li{
+  display: inline-block;
+}
+
+.texto-fonte  {
+  font-family: 'Text Me One', sans-serif;
+}
